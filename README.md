@@ -2,9 +2,10 @@
 My project management to create activity, PERT, risk, and cost. I designed these to implement PMP and PRINCE2 in my daily career activity as an aircraft engineer, data scientist, and business analyst.
 
 
-Please download or fork all my files to your computer to open it.</br>
+Please download or fork all my files to your computer to open it. Then open it using *Google Chrome/Mozilla/other browser (for html).</br>
+Or using pdf reader (for *.pdf).
 I designed and created this analysis using HTML, CSS and Primavera P6.
 
 
-E-mail: renniekaputri15@gmail.com </br>
-Phone: +62-81905146181 (Indonesia)
+E-mail: renniekaputri15@gmail.com
+WA/Mobile: +62-81905146181
