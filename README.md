@@ -3,7 +3,7 @@ My project management to create activity, PERT, risk, and cost. I designed these
 
 
 Please download or fork all my files to your computer to open it. Then open it using *Google Chrome/Mozilla/other browser (for html)*.</br>
-*Or using pdf reader (for *.pdf)*.
+*Or using pdf reader* (for *.pdf).*
 I designed and created this analysis using HTML, CSS and Primavera P6.
 
 
