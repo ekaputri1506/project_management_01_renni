@@ -7,5 +7,5 @@ Please download or fork all my files to your computer to open it. Then open it u
 I designed and created this analysis using HTML, CSS and Primavera P6.
 
 
-E-mail: renniekaputri15@gmail.com
-WA/Mobile: +62-81905146181
+E-mail: renniekaputri1982@gmail.com
+
